@@ -1,5 +1,5 @@
 # CycleGAN-SD
-The implementation of CycleGAN-SD for zero-shot fault diagnosis (Ongoing update)
+The implementation of CycleGAN-SD for zero-shot fault diagnosis 
 
 # Paper
 W. Liao, L. Wu, S. Xu and S. Fujimura, "Cycle-Consistent Generating Network Based on Semantic Distance for Zero-Shot Fault Diagnosis," in IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-13, 2025, Art no. 3518413, doi: 10.1109/TIM.2025.3545713.
